@@ -102,6 +102,7 @@ def main():
         elif choice == '2':
             print("\nThank you for using Freelancer Portfolio & Job Proposal Generator!")
             break
-        
+
         else:
             print("\nInvalid choice. Please try again.")
+main()
